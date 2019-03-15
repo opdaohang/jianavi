@@ -133,7 +133,7 @@ $('.Select-box li').click(function(){
 			 _tihs = 'https://www.google.com/search';
 			 _name = 'q';
 			}if(_tihs == 'bing_s'){
-               _tihs = 'https://www.bing.com/search';
+               _tihs = 'https://www2.bing.com/search';
                _name = 'q';
               }if(_tihs == 'miji_s'){
 					 _tihs = 'https://mijisou.com/';
